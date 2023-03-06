@@ -1,14 +1,13 @@
-## MuseumProject의 서울시립미술관 API를 위한 서버입니다.
+## CORS 에러 해결
 
-CORS 에러 해결을 위해 만든 간단한 서버입니다. Express로 API 요청을 받아오고 CORS 라이브러리를 통해 CORS 에러가 발생하지 않도록 합니다. 이렇게 받아온 API 데이터를 프론트엔드에서 가져갈 수 있도록 페이지로 배포하였습니다.
+- 클라이언트에서 API 요청 시 발생하는 CORS 에러를 해결하기 위해 만든 작은 서버입니다.
+- Express로 API 요청을 받아오고 CORS 라이브러리를 사용하여 CORS 에러가 발생하지 않도록 합니다.
+
 
 ## Stacks
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 
-## link
-
-https://port-0-museumapi-server-r8xoo2mleqt3zgv.sel3.cloudtype.app/
 
 ## Features
 
